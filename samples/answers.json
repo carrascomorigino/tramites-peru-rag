@@ -1,0 +1,150 @@
+[
+  {
+    "id": "ruc-independiente",
+    "q": "¿Cómo saco mi RUC si trabajo como independiente?",
+    "parts": [
+      { "text": "Si vas a trabajar de forma independiente, debes inscribirte en el RUC de la Sunat.", "cite": [0] },
+      { "text": "Puedes hacerlo en línea por Sunat Virtual o la App Personas. Necesitas tu DNI, un celular y un correo, y el sistema valida tus huellas con la app.", "cite": [1, 2] },
+      { "text": "Como independiente, también registras tu código de profesión u oficio. En el mismo trámite puedes generar tu Clave SOL.", "cite": [3, 4] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-inscripcion-ruc", "quote": "Si vas a iniciar una actividad profesional u oficio de manera independiente" },
+      { "sourceId": "gobpe-inscripcion-ruc", "quote": "DNI, número de celular y correo electrónico." },
+      { "sourceId": "gobpe-inscripcion-ruc", "quote": "En tu celular, sigue las instrucciones del app para validar tus huellas dactilares." },
+      { "sourceId": "gobpe-inscripcion-ruc", "quote": "Código de Profesión u oficio, si te vas a registrar como contribuyente de renta de Cuarta categoría." },
+      { "sourceId": "orient-inscribete-ruc", "quote": "Asimismo, en el mismo trámite podrás generar tu Clave SOL." }
+    ]
+  },
+  {
+    "id": "clave-sol-obtener",
+    "q": "¿Qué necesito para obtener mi Clave SOL?",
+    "parts": [
+      { "text": "Puedes obtenerla por la App Personas, la web de Sunat o en persona, incluso si no estás obligado a tener RUC.", "cite": [0] },
+      { "text": "En línea necesitas tu DNI (número y fecha de emisión), y tu correo y teléfono deben estar actualizados en tu ficha RUC.", "cite": [1, 2] },
+      { "text": "En persona, vas a un Centro de Servicios al Contribuyente con tu DNI físico. Te entregan el código de usuario y la clave en un sobre sellado.", "cite": [3, 4] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-obtener-clave-sol", "quote": "Obtén tu clave SOL a través de la App Personas, la página web de Sunat o de modo presencial. Puedes hacerlo incluso si no estas obligado a tener RUC." },
+      { "sourceId": "gobpe-obtener-clave-sol", "quote": "DNI: número y fecha de emisión" },
+      { "sourceId": "gobpe-obtener-clave-sol", "quote": "es indispensable que tu correo electrónico y número telefónico estén actualizados en tu ficha RUC" },
+      { "sourceId": "gobpe-obtener-clave-sol", "quote": "DNI físico. En caso de extranjeros, carnet de extranjería con una fotocopia del documento" },
+      { "sourceId": "gobpe-obtener-clave-sol", "quote": "te entregará a ti o tu representante el Código de Usuario y la Clave SOL en un sobre sellado" }
+    ]
+  },
+  {
+    "id": "rhe-emitir",
+    "q": "¿Cómo emito un recibo por honorarios electrónico?",
+    "parts": [
+      { "text": "Necesitas tener registradas en tu RUC rentas de cuarta categoría y tu Clave SOL.", "cite": [0] },
+      { "text": "Entras a SUNAT Operaciones en Línea con tu Clave SOL, completas los datos y emites el recibo.", "cite": [1] },
+      { "text": "Luego puedes descargarlo en XML o PDF, o enviarlo a tu correo.", "cite": [2] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-emitir-rhe", "quote": "Haber registrado en tu RUC rentas de cuarta categoría." },
+      { "sourceId": "gobpe-emitir-rhe", "quote": "Al ingresar a SUNAT Operaciones en Línea con tu clave SOL, completa los datos y emite el recibo por honorarios electrónico." },
+      { "sourceId": "gobpe-emitir-rhe", "quote": "Puedes descargar el recibo emitido en formato XML, PDF o enviarlo directamente a tu correo electrónico." }
+    ]
+  },
+  {
+    "id": "rhe-credito",
+    "q": "Mi cliente me paga después. ¿Qué pongo en el recibo por honorarios?",
+    "parts": [
+      { "text": "Si no te pagan en el momento, eliges la forma de pago \"crédito\" e indicas el monto pendiente y las fechas de vencimiento de cada cuota.", "cite": [0] },
+      { "text": "Si te pagan en el momento, la forma de pago es \"contado\".", "cite": [1] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-emitir-rhe", "quote": "se deberá indicar el monto de los honorarios pendientes de pago, la(s) fecha(s) de vencimiento de los montos correspondientes a cada cuota y como forma de pago “crédito”." },
+      { "sourceId": "gobpe-emitir-rhe", "quote": "Si emites tu recibo por honorarios electrónico y es pagado en el momento, se deberá indicar como forma de pago “contado”." }
+    ]
+  },
+  {
+    "id": "rhe-cas",
+    "q": "Trabajo para el Estado con contrato CAS. ¿Debo emitir recibos por honorarios?",
+    "parts": [
+      { "text": "No. Si eres trabajador del Estado con contrato CAS, no estás obligado a emitir recibos por honorarios.", "cite": [0] },
+      { "text": "Pero tus ingresos CAS sí son rentas de cuarta categoría para el impuesto a la renta.", "cite": [1] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-rentas-cuarta", "quote": "Si eres trabajador del Estado con contrato CAS, director de empresas o similares, no estás obligado a emitir recibos por honorarios." },
+      { "sourceId": "gobpe-rentas-cuarta", "quote": "o si trabajas para el Estado bajo la modalidad CAS, los ingresos que percibes son rentas de cuarta categoría" }
+    ]
+  },
+  {
+    "id": "retencion-1500",
+    "q": "¿Cuándo me retienen el impuesto en un recibo por honorarios?",
+    "parts": [
+      { "text": "Tu cliente te retiene el impuesto si el monto a pagar por recibo es mayor a S/ 1,500.00.", "cite": [0] },
+      { "text": "Si no tienes la suspensión, te pueden hacer retenciones del 8%.", "cite": [1] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-rentas-cuarta", "quote": "Permitir que te realicen la retención de rentas de cuarta categoría, en caso el monto a pagar por recibo sea mayor a S/ 1,500.00" },
+      { "sourceId": "gobpe-suspension-1609", "quote": "De lo contrario, podrían generarte retenciones del 8%." }
+    ]
+  },
+  {
+    "id": "suspension-pedir",
+    "q": "¿Cómo pido la suspensión de retenciones de cuarta categoría?",
+    "parts": [
+      { "text": "Puedes pedirla si proyectas que tus ingresos de 2026 no van a superar S/ 48,125.00 por tu profesión u oficio.", "cite": [0] },
+      { "text": "Entras a SUNAT Operaciones en Línea con tu Clave SOL, en \"Mis trámites y Consultas\", y llenas el Formulario 1609. La evaluación es automática.", "cite": [1, 2] },
+      { "text": "Debes mostrar la constancia a la persona a quien prestas tus servicios para que no te retenga.", "cite": [3] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-suspension-1609", "quote": "si proyectas que tus ingresos en el año 2026 no van a superar el monto de S/ 48,125.00 por el ejercicio de profesión, arte u oficio" },
+      { "sourceId": "gobpe-suspension-1609", "quote": "5.Form.1609 Solicitud de Suspensión Retenciones 4ta Categoría." },
+      { "sourceId": "gobpe-suspension-1609", "quote": "Luego, completa la información solicitada por el sistema. La evaluación es automática." },
+      { "sourceId": "gobpe-suspension-1609", "quote": "debes mostrarle este documento a la persona que prestas tus servicios para evitar la retención del impuesto" }
+    ]
+  },
+  {
+    "id": "suspension-vigencia",
+    "q": "¿Hasta cuándo vale la suspensión de retenciones?",
+    "parts": [
+      { "text": "Vale desde el día siguiente de su generación hasta el 31 de diciembre de ese mismo año. Puedes pedirla en cualquier momento del año.", "cite": [0] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-suspension-1609", "quote": "Puedes hacer este trámite en cualquier momento del año y la suspensión será válida a partir del día siguiente de su generación hasta el 31 de diciembre de ese mismo año." }
+    ]
+  },
+  {
+    "id": "anual-vencimiento",
+    "q": "¿Cuándo vence la declaración anual de renta 2025?",
+    "parts": [
+      { "text": "Se presenta desde el 31 de marzo de 2026 hasta el vencimiento según el último dígito de tu RUC.", "cite": [0] },
+      { "text": "Por ejemplo, si tu RUC termina en 0, vence el 27/05/2026; si termina en 9, vence el 09/06/2026. Mira la tabla completa en la fuente.", "cite": [1, 2] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-declarar-anual", "quote": "Presenta la declaración a partir del 31 de marzo de 2026 hasta el día del vencimiento, según el último dígito de tu RUC" },
+      { "sourceId": "gobpe-declarar-anual", "quote": "Último dígito del RUC 0: vence 27/05/2026" },
+      { "sourceId": "gobpe-declarar-anual", "quote": "Último dígito del RUC 9: vence 09/06/2026" }
+    ]
+  },
+  {
+    "id": "anual-formulario",
+    "q": "¿Con qué formulario hago la declaración anual?",
+    "parts": [
+      { "text": "Con el Formulario Virtual N° 709, por SUNAT Virtual o la App Personas.", "cite": [0] },
+      { "text": "El formulario te muestra un reporte con tus ingresos, gastos y retenciones, que puedes modificar o confirmar antes de enviar.", "cite": [1] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-declarar-anual", "quote": "usando el Formulario Virtual N° 709 a través de SUNAT Virtual o del App Personas" },
+      { "sourceId": "gobpe-declarar-anual", "quote": "muestra un reporte (archivo personalizado) con información de tus rentas (ingresos), gastos, retenciones, entre otros, la cual puedes modificar o confirmar antes de enviar tu declaración" }
+    ]
+  },
+  {
+    "id": "calcular-cuarta",
+    "q": "¿Cómo se calcula el impuesto de cuarta categoría?",
+    "parts": [
+      { "text": "Primero descuentas el 20% de tus ingresos del año. Luego descuentas 7 UIT.", "cite": [0, 1] },
+      { "text": "Al resultado le aplicas la tasa de cada tramo: 8% hasta 5 UIT, y luego 14%, 17%, 20% y 30%.", "cite": [2, 3] },
+      { "text": "Si te hicieron retenciones o pagos a cuenta, los restas del impuesto. Solo pagas si queda saldo.", "cite": [4] }
+    ],
+    "citations": [
+      { "sourceId": "gobpe-calcular-cuarta", "quote": "1. Descuenta el 20% de los ingresos percibidos o cobrados durante el año" },
+      { "sourceId": "gobpe-calcular-cuarta", "quote": "2. Descuenta el valor de 7 UIT" },
+      { "sourceId": "gobpe-calcular-cuarta", "quote": "1er Tramo: de 0-5 UIT 8%" },
+      { "sourceId": "gobpe-calcular-cuarta", "quote": "5to Tramo: más de 45 UIT 30%" },
+      { "sourceId": "gobpe-calcular-cuarta", "quote": "Si hiciste pagos a cuenta o te hicieron retención durante el año, estos montos deben ser descontados del impuesto calculado y solo si queda un saldo por pagar, debes cancelarlo." }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Fake test keys only (from week 3: tests/fixtures/)."
+paths = ['''tests/fixtures/''']

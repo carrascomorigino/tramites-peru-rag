@@ -1,0 +1,5 @@
+{
+  "note": "Regression floor for CI on the held-out test set. It is the score of 2026-11-19, not a target. Raise it when the score goes up. Never change the threshold to pass it.",
+  "minHitRate": 0.87,
+  "minNoSeRecall": 0.6
+}
