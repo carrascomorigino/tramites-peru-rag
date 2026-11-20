@@ -1,0 +1,98 @@
+[
+  {
+    "id": "gobpe-inscripcion-ruc",
+    "topic": "ruc",
+    "url": "https://www.gob.pe/284-inscripcion-en-el-ruc",
+    "title": "Inscripción en el RUC",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "orient-inscribete-ruc",
+    "topic": "ruc",
+    "url": "https://orientacion.sunat.gob.pe/1097-0-inscribete-en-el-ruc",
+    "title": "Inscríbete en el RUC - Trámite Virtual",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "gobpe-obtener-clave-sol",
+    "topic": "clave-sol",
+    "url": "https://www.gob.pe/393-obtener-clave-sol",
+    "title": "Obtener clave SOL",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "orient-clave-sol",
+    "topic": "clave-sol",
+    "url": "https://orientacion.sunat.gob.pe/1088-clave-sol-obtencion-recuperacion",
+    "title": "3. Clave SOL - Obtención / Recuperación",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "orient-requisitos-clave-sol",
+    "topic": "clave-sol",
+    "url": "https://orientacion.sunat.gob.pe/6614-02-requisitos-para-obtener-la-clave-sol",
+    "title": "02. Requisitos para obtener la Clave SOL",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "gobpe-emitir-rhe",
+    "topic": "rhe",
+    "url": "https://www.gob.pe/1101-emitir-recibo-por-honorarios-electronico",
+    "title": "Emitir recibo por honorarios electrónico",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "orient-otras-obligaciones",
+    "topic": "rhe",
+    "url": "https://orientacion.sunat.gob.pe/3069-07-otras-obligaciones-personas",
+    "title": "08. Otras Obligaciones",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "gobpe-tipos-cpe",
+    "topic": "rhe",
+    "url": "https://www.gob.pe/26395-tipos-de-comprobante-de-pago-electronicos",
+    "title": "Tipos de comprobantes electrónicos",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "gobpe-suspension-1609",
+    "topic": "suspension",
+    "url": "https://www.gob.pe/8017-solicitar-la-suspension-de-retenciones-de-cuarta-categoria-formulario-n-1609",
+    "title": "Solicitar la suspensión de retenciones de cuarta categoría - Formulario N° 1609",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "gobpe-declarar-anual",
+    "topic": "anual",
+    "url": "https://www.gob.pe/12274-declarar-y-pagar-impuesto-anual-para-rentas-de-trabajo-4ta-y-5ta-categoria",
+    "title": "Declarar y pagar impuesto anual para rentas de trabajo - 4ta y 5ta categoría",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "gobpe-rentas-cuarta",
+    "topic": "anual",
+    "url": "https://www.gob.pe/8016-rentas-de-cuarta-categoria-trabajo-independiente",
+    "title": "Rentas de cuarta categoría (trabajo independiente)",
+    "checked": "2026-11-20",
+    "check": "auto"
+  },
+  {
+    "id": "gobpe-calcular-cuarta",
+    "topic": "anual",
+    "url": "https://www.gob.pe/7318-calcular-el-impuesto-a-la-renta-de-cuarta-categoria",
+    "title": "Calcular el impuesto a la renta de cuarta categoría",
+    "checked": "2026-11-20",
+    "check": "auto"
+  }
+]

@@ -1,0 +1,20 @@
+name: Live check of official sources
+on:
+  schedule:
+    - cron: '0 13 * * 1' # every Monday, 08:00 Lima
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    # A missed page shows as a warning on the run. Gino reads it and refreshes the snapshot.
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run check-live

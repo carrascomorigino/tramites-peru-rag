@@ -1,0 +1,6 @@
+{
+  "minCoverage": 0.6,
+  "minScore": 20,
+  "frozen": "2026-11-19",
+  "note": "Set from evals/tune.json only (in-scope min: cov 0.67 / score 24.6; out-of-scope max: cov 0.5 / score 15.4). Frozen before evals/test.json was written. Do not tune on test.json."
+}

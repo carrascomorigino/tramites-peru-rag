@@ -1,0 +1,28 @@
+{
+  "id": "gobpe-calcular-cuarta",
+  "topic": "anual",
+  "url": "https://www.gob.pe/7318-calcular-el-impuesto-a-la-renta-de-cuarta-categoria",
+  "title": "Calcular el impuesto a la renta de cuarta categoría",
+  "checked": "2026-11-20",
+  "paragraphs": [
+    "## Calcular el impuesto a la renta de cuarta categoría",
+    "Las rentas de cuarta categoría son las que se obtienen por el ejercicio independiente de una profesión y oficio, sin estar subordinado a otra persona o entidad. Si generas estas rentas al final del año podrías estar obligado a presentar declaración jurada anual y por ello debes saber cómo determinar el impuesto a la renta.",
+    "Para hacerlo, debes hacer lo siguiente:",
+    "1. Descuenta el 20% de los ingresos percibidos o cobrados durante el año",
+    "Ejemplo: si tuviste S/ 60,000.00 soles de ingresos durante todo el año 2025, debes descontar S/ 12,000.00 .",
+    "60,000 - 12,000 = S/ 48,000.00",
+    "2. Descuenta el valor de 7 UIT",
+    "Resta 7 UIT S/ 36,050.00 del resultado anterior: 48,000 - 37,450 = S/ 10,550.00",
+    "3. Aplica la tasa del impuesto por cada tramo de ingresos",
+    "Rango o tramo de ingresos: Tasa a aplicar",
+    "Valor de UIT 2025: S/ 5,350.00",
+    "1er Tramo: de 0-5 UIT 8%",
+    "2do Tramo: de 5 – 20 UIT 14%",
+    "3er Tramo: de 20- 35 UIT 17%",
+    "4to Tramo: de 35- 45 UIT 20%",
+    "5to Tramo: más de 45 UIT 30%",
+    "Como el \"monto base\" sobre el que se calcula el impuesto se encuentra dentro del primer tramo S/ 10,550.00 al ser menor a 5 UIT S/ 26,750.00 , debes aplicar la tasa del 8% es decir 10,550 x 8% = S/ 844.00 . Si el \"monto base\" fuera mayor, tendrás que calcular impuestos por cada tramo, para luego sumar los mismos y así obtener el impuesto total.",
+    "En este caso, se determina que el impuesto a pagar será de S/ 844.00 soles, este pago se realizará previa presentación de la declaración jurada anual. Si hiciste pagos a cuenta o te hicieron retención durante el año, estos montos deben ser descontados del impuesto calculado y solo si queda un saldo por pagar, debes cancelarlo.",
+    "Debes estar atento a la publicación de Sunat al final del año, ya que ahí se establece quiénes están obligados a presentar declaración jurada anual conforme a un cronograma."
+  ]
+}
