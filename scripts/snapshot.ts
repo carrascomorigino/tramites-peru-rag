@@ -7,7 +7,7 @@ import { fetchHtml, extractMain } from './fetch.ts';
 import type { Snapshot, SourceEntry } from '../src/lib/types.ts';
 
 const only = process.argv[2];
-const today = new Date().toISOString().slice(0, 10);
+const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Lima' });
 mkdirSync('corpus', { recursive: true });
 const sources: SourceEntry[] = [];
 

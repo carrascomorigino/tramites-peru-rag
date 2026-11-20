@@ -22,3 +22,16 @@ export interface Chunk {
   heading: string;
   text: string;
 }
+
+export interface SampleCitation {
+  sourceId: string;
+  /** Exact text from the snapshot (checked by tests/samples.test.ts). */
+  quote: string;
+}
+
+export interface SampleAnswer {
+  id: string;
+  q: string;
+  parts: { text: string; cite: number[] }[];
+  citations: SampleCitation[];
+}

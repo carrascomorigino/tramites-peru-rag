@@ -21,6 +21,7 @@ jobs:
       - run: npm test
       - name: Retrieval eval (held-out test set, no API)
         run: npm run eval
+      - run: npm run build
       - run: npm audit --audit-level=high
       - name: Secret scan (full history)
         uses: gitleaks/gitleaks-action@v2

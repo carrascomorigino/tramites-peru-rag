@@ -45,7 +45,7 @@ if (isMain) {
   console.log('\n' + summary);
   if (process.argv.includes('--save')) {
     mkdirSync('evals/results', { recursive: true });
-    const day = new Date().toISOString().slice(0, 10);
+    const day = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Lima' });
     writeFileSync(`evals/results/${day}-retrieval.md`, `# Retrieval eval, ${day}\n\n${summary}\n\n` + res.rows.map((r) => `- ${r.pass ? 'PASS' : 'FAIL'} [${r.answer}] ${r.q} → ${r.top3.join(', ')}`).join('\n') + '\n');
   }
 }
