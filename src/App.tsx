@@ -228,7 +228,7 @@ export function App() {
       </details>
 
       <footer>
-        <p>Fuentes: {sources.length} páginas de gob.pe y SUNAT. Código abierto (MIT). Hecho por <a href="https://mapagino.com/services" target="_blank" rel="noopener noreferrer">Mapagino</a>.</p>
+        <p>Fuentes: {sources.length} páginas de gob.pe y SUNAT. Código abierto (MIT). Hecho por <a href="https://mapagino.com" target="_blank" rel="noopener noreferrer">Mapagino</a>.</p>
       </footer>
     </main>
   );
